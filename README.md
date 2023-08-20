@@ -17,7 +17,7 @@ Glad you asked. They are broken up into several directories, and majority of the
 ```
 /scritps
 ├── 📁 network-chuck
-|  ├── 📁 ransomeware
+|  ├── 📁 ransomware
 |    ├── 📄 somescript.py
 |    └── 📄 anothernastyboy.py
    ├── 📁 anotherdir
