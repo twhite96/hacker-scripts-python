@@ -12,13 +12,12 @@ Glad you asked. They are broken up into several directories, and majority of the
 
 ```
 /scritps
-├── 📁 python
-| ├── 📁 network-chuck
-|   ├── 📁 malware
-|     ├── 📄 somescript.py
-|     └── 📄 anothernastyboy.py
-  ├── 📁 anotherdir
-    ├── 📄 somemorescripts.py
+├── 📁 network-chuck
+|  ├── 📁 malware
+|    ├── 📄 somescript.py
+|    └── 📄 anothernastyboy.py
+   ├── 📁 anotherdir
+      ├── 📄 somemorescripts.py
 |     └── 📄 hacktheplanet.py
 ├── 📄 LICENSE
 ├── 📄 README.md
