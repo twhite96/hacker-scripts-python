@@ -7,11 +7,6 @@
 > **"SOME OF THESE SCRIPTS WILL RUIN YOUR COMPUTER!!"**
     Listen. I know you want to become a *1337 haxx0r* and all, but seriously, **don't run these scripts on your main machine**. Use a box you can blow up with malware, or a cheap Linode server, or like I do, a VM. But **DON'T BE STUPID**. **USE WITH CAUTION**.
 
-    
-
-> [!IMPORTANT]
-    Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
-
 
 
 
@@ -40,3 +35,5 @@ However, note that I am not content to just write these down; no no. Ya girl is 
 
 I do more detailed writing on https://0x8c.org.
 
+> [!IMPORTANT]
+    Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
