@@ -10,7 +10,7 @@
     
 
 > [!IMPORTANT]
-    > Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
+    Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
 
 
 
