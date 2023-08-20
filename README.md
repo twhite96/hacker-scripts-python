@@ -5,6 +5,8 @@
     Listen. I know you want to become a *1337 haxx0r* and all, but seriously, **don't run
     these scripts on your main machine**. Use a box you can blow up with malware, or a cheap Linode server, or like I do, a VM. But **DON'T BE STUPID**. **USE WITH CAUTION**.
 
+    Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
+
 
 ## Where are them scripts??
 
@@ -13,7 +15,7 @@ Glad you asked. They are broken up into several directories, and majority of the
 ```
 /scritps
 ├── 📁 network-chuck
-|  ├── 📁 malware
+|  ├── 📁 ransomeware
 |    ├── 📄 somescript.py
 |    └── 📄 anothernastyboy.py
    ├── 📁 anotherdir
@@ -30,3 +32,4 @@ However, note that I am not content to just write these down; no no. Ya girl is 
 ## More info please!
 
 I do more detailed writing on https://0x8c.org.
+
