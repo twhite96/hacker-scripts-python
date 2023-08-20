@@ -1,11 +1,15 @@
 # Hacker Scripts
 > For us noobs
 
+
+
 !!!danger "SOME OF THESE SCRIPTS WILL RUIN YOUR COMPUTER!!"
     Listen. I know you want to become a *1337 haxx0r* and all, but seriously, **don't run
     these scripts on your main machine**. Use a box you can blow up with malware, or a cheap Linode server, or like I do, a VM. But **DON'T BE STUPID**. **USE WITH CAUTION**.
 
     Also, **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
+
+
 
 
 ## Where are them scripts??
