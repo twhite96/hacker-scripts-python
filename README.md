@@ -35,5 +35,6 @@ However, note that I am not content to just write these down; no no. Ya girl is 
 
 I do more detailed writing on https://0x8c.org. For more loosely documented thoughts on cybersecurity, I share my notes here: https://notes.0x8c.org.
 
+
 > [!IMPORTANT]
     **THIS IS FOR EDUCATIONAL PURPOSES ONLY**. I am not responsible for whatever happens if you break shit or get arrested for being stupid. I will be making a license, etc, soon.
